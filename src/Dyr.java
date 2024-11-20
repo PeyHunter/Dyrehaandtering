@@ -14,6 +14,9 @@ public abstract class Dyr
         this.type = type;
     }
 
+
+
+
     public String getName()
     {
         return name;
@@ -28,6 +31,9 @@ public abstract class Dyr
     {
      return "ubestemt dyrelyd";
     }
+
+
+
 
 
 }
