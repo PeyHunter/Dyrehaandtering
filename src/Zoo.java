@@ -23,7 +23,7 @@ public class Zoo
         for (int i = 0; i < zoo.size(); i++)
         {
             if (zoo.get(i) instanceof Hund)
-                System.out.println(zoo.get(i).givLyd() + " " + zoo.get(i).getName());;
+                System.out.println(zoo.get(i).givLyd() + "\n" + " " + zoo.get(i).getName());;
         }
     }
 
